@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-winston-logging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirajmhanna/NodeJS-Winston-Logging.git"
+  },
+  "author": "sirajmhanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirajmhanna/NodeJS-Winston-Logging/issues"
+  },
+  "homepage": "https://github.com/sirajmhanna/NodeJS-Winston-Logging#readme",
+  "dependencies": {
+    "winston": "^3.4.0"
+  }
+}
