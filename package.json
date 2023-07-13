@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sirajmhanna/NodeJS-Winston-Logging#readme",
   "dependencies": {
-    "winston": "^3.4.0"
+    "winston": "^3.8.2"
   }
 }
